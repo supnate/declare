@@ -1,0 +1,5 @@
+{
+  "name": "declare",
+  "description": "Ported from dojo/_base/declare. Allows to define class in javascript, which supports inheritance.",
+  "version": "0.1",
+}
